@@ -1,0 +1,229 @@
+{
+    "sections": [
+        {
+            "section": "user",
+            "presets": [
+                {
+                    "name": "1024x1024@8",
+                    "group": "user",
+                    "width": 1024.0,
+                    "height": 1024.0,
+                    "units": "pixelsUnit",
+                    "profile": "none",
+                    "resolution": 300.0,
+                    "resolutionUnits": "inchesUnit",
+                    "depth": 8,
+                    "scale": 1.0,
+                    "mode": "RGB",
+                    "fill": {
+                        "hue": 0.0,
+                        "saturation": 0.0,
+                        "brightness": 88.62745098039216,
+                        "type": "HSBColorClass"
+                    },
+                    "guides": [],
+                    "artboards": [],
+                    "lastUsedTime": 1618977051071
+                },
+                {
+                    "name": "1024x512@8",
+                    "group": "user",
+                    "width": 1024.0,
+                    "height": 512.0,
+                    "units": "pixelsUnit",
+                    "profile": "none",
+                    "resolution": 300.0,
+                    "resolutionUnits": "inchesUnit",
+                    "depth": 8,
+                    "scale": 1.0,
+                    "mode": "RGB",
+                    "fill": {
+                        "hue": 0.0,
+                        "saturation": 0.0,
+                        "brightness": 88.62745098039216,
+                        "type": "HSBColorClass"
+                    },
+                    "guides": [],
+                    "artboards": [],
+                    "lastUsedTime": 1626824413218
+                },
+                {
+                    "name": "128x128@8",
+                    "group": "user",
+                    "width": 128.0,
+                    "height": 128.0,
+                    "units": "pixelsUnit",
+                    "profile": "none",
+                    "resolution": 300.0,
+                    "resolutionUnits": "inchesUnit",
+                    "depth": 8,
+                    "scale": 1.0,
+                    "mode": "RGB",
+                    "fill": {
+                        "hue": 0.0,
+                        "saturation": 0.0,
+                        "brightness": 88.62745098039216,
+                        "type": "HSBColorClass"
+                    },
+                    "guides": [],
+                    "artboards": [],
+                    "lastUsedTime": 1618977051071
+                },
+                {
+                    "name": "128x256@8",
+                    "group": "user",
+                    "width": 128.0,
+                    "height": 256.0,
+                    "units": "pixelsUnit",
+                    "profile": "none",
+                    "resolution": 300.0,
+                    "resolutionUnits": "inchesUnit",
+                    "depth": 8,
+                    "scale": 1.0,
+                    "mode": "RGB",
+                    "fill": {
+                        "hue": 0.0,
+                        "saturation": 0.0,
+                        "brightness": 88.62745098039216,
+                        "type": "HSBColorClass"
+                    },
+                    "guides": [],
+                    "artboards": [],
+                    "lastUsedTime": 1618977051071
+                },
+                {
+                    "name": "2048x2048@8",
+                    "group": "user",
+                    "width": 2048.0,
+                    "height": 2048.0,
+                    "units": "pixelsUnit",
+                    "profile": "none",
+                    "resolution": 300.0,
+                    "resolutionUnits": "inchesUnit",
+                    "depth": 8,
+                    "scale": 1.0,
+                    "mode": "RGB",
+                    "fill": {
+                        "hue": 0.0,
+                        "saturation": 0.0,
+                        "brightness": 88.62745098039216,
+                        "type": "HSBColorClass"
+                    },
+                    "guides": [],
+                    "artboards": [],
+                    "lastUsedTime": 1618977051071
+                },
+                {
+                    "name": "256x128@8",
+                    "group": "user",
+                    "width": 256.0,
+                    "height": 128.0,
+                    "units": "pixelsUnit",
+                    "profile": "none",
+                    "resolution": 300.0,
+                    "resolutionUnits": "inchesUnit",
+                    "depth": 8,
+                    "scale": 1.0,
+                    "mode": "RGB",
+                    "fill": {
+                        "hue": 0.0,
+                        "saturation": 0.0,
+                        "brightness": 88.62745098039216,
+                        "type": "HSBColorClass"
+                    },
+                    "guides": [],
+                    "artboards": [],
+                    "lastUsedTime": 1626824446115
+                },
+                {
+                    "name": "256x256@8",
+                    "group": "user",
+                    "width": 256.0,
+                    "height": 256.0,
+                    "units": "pixelsUnit",
+                    "profile": "none",
+                    "resolution": 300.0,
+                    "resolutionUnits": "inchesUnit",
+                    "depth": 8,
+                    "scale": 1.0,
+                    "mode": "RGB",
+                    "fill": {
+                        "hue": 0.0,
+                        "saturation": 0.0,
+                        "brightness": 88.62745098039216,
+                        "type": "HSBColorClass"
+                    },
+                    "guides": [],
+                    "artboards": [],
+                    "lastUsedTime": 1626824446115
+                },
+                {
+                    "name": "512x1024@8",
+                    "group": "user",
+                    "width": 512.0,
+                    "height": 1024.0,
+                    "units": "pixelsUnit",
+                    "profile": "none",
+                    "resolution": 300.0,
+                    "resolutionUnits": "inchesUnit",
+                    "depth": 8,
+                    "scale": 1.0,
+                    "mode": "RGB",
+                    "fill": {
+                        "hue": 0.0,
+                        "saturation": 0.0,
+                        "brightness": 88.62745098039216,
+                        "type": "HSBColorClass"
+                    },
+                    "guides": [],
+                    "artboards": [],
+                    "lastUsedTime": 1618977051071
+                },
+                {
+                    "name": "512x256@8",
+                    "group": "user",
+                    "width": 512.0,
+                    "height": 256.0,
+                    "units": "pixelsUnit",
+                    "profile": "none",
+                    "resolution": 300.0,
+                    "resolutionUnits": "inchesUnit",
+                    "depth": 8,
+                    "scale": 1.0,
+                    "mode": "RGB",
+                    "fill": {
+                        "hue": 0.0,
+                        "saturation": 0.0,
+                        "brightness": 88.62745098039216,
+                        "type": "HSBColorClass"
+                    },
+                    "guides": [],
+                    "artboards": [],
+                    "lastUsedTime": 1626824446115
+                },
+                {
+                    "name": "512x512@8",
+                    "group": "user",
+                    "width": 512.0,
+                    "height": 512.0,
+                    "units": "pixelsUnit",
+                    "profile": "none",
+                    "resolution": 300.0,
+                    "resolutionUnits": "inchesUnit",
+                    "depth": 8,
+                    "scale": 1.0,
+                    "mode": "RGB",
+                    "fill": {
+                        "hue": 0.0,
+                        "saturation": 0.0,
+                        "brightness": 88.62745098039216,
+                        "type": "HSBColorClass"
+                    },
+                    "guides": [],
+                    "artboards": [],
+                    "lastUsedTime": 1626824446115
+                }
+            ]
+        }
+    ]
+}
