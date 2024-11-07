@@ -1,0 +1,25 @@
+       E x t r a c t   A l p h a   a s   M a s k               E x t r a c t   a s   M a s k   L a y e r      !  TEXT   set   Setÿÿÿÿ    S e t      setd       nullobj    prop         Chnl    fsel    T   obj    Enmr         Chnl    Chnl    Trsp  TEXT   set   Setÿÿÿÿ    S e t      setd       nullobj    prop         Prpr    QucMEnmr         Dcmn    Ordn    Trgt  TEXT   set   Setÿÿÿÿ    S e t      setd       nullobj    prop         Chnl    fsel    T   enum    Ordn    Al    TEXT   	copyEvent   Copy      TEXT   
+clearEvent   Clearÿÿÿÿ    C l e a r      Cler       nullobj    prop         Prpr    QucMEnmr         Dcmn    Ordn    Trgt  TEXT   select   Selectÿÿÿÿ    S e l e c t      slct       nullobj    Enmr         Lyr     Ordn    Bckw    MkVsbool   TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   make   Makeÿÿÿÿ    M a k e      Mk         Nw  type         Chnl    At  obj    Enmr         Chnl    Chnl    Msk     Usngenum    UsrM    RvlA  TEXT   select   Selectÿÿÿÿ    S e l e c t      slct       nullobj    Enmr         Chnl    Ordn    Trgt    MkVsbool   TEXT   show   Showÿÿÿÿ    S h o w      Shw        nullVlLs   obj    Enmr         Chnl    Ordn    Trgt  TEXT   paste   Pasteÿÿÿÿ    P a s t e      past       AntAenum    Annt    Anno  TEXT   select   Selectÿÿÿÿ    S e l e c t      slct       nullobj    Enmr         Chnl    Ordn    Trgt    MkVsbool           E x t r a c t   a s   C l i p p i n g   L a y e r        TEXT   copyToLayer   Layer Via Copy      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   copyToLayer   Layer Via Copy      TEXT   mergeLayersNew   Merge Layersÿÿÿÿ   
+ M e r g e   L a y e r s      Mrg2      TEXT   
+groupEvent   Create Clipping Maskÿÿÿÿ    C r e a t e   C l i p p i n g   M a s k      GrpL       nullobj    Enmr         Lyr     Ordn    Trgt  TEXT   select   Selectÿÿÿÿ    S e l e c t      slct       nullobj    Enmr         Lyr     Ordn    Frwr    MkVsbool    TEXT   curves   Curvesÿÿÿÿ         null      
+presetKindenum   presetKindType   presetKindCustom    AdjsVlLs   Objc         CrvA       Chnlobj    Enmr         Chnl    Chnl    Cmps    Crv VlLs   Objc         Pnt        Hrzndoub            Vrtcdoub        Objc         Pnt        Hrzndoub@oà         Vrtcdoub        
